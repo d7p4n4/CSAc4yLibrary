@@ -3,10 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using d7p4n4.Final.Class;
+using ac4yNamespace.Final.Class;
 using GuidLibrary;
 
-namespace d7p4n4.PreProcessed.Class
+namespace ac4yNamespace.PreProcessed.Class
 {
 	            [GUID("973631da-392c-4e06-b953-041e78c321af")]
 	public class Ac4yObjectPreProcessed 

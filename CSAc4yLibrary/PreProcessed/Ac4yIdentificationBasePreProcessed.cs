@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using GuidLibrary;
 
-namespace d7p4n4.PreProcessed.Class
+namespace ac4yNamespace.PreProcessed.Class
 {
 	            [GUID("22bd598f-3830-4c5c-93e8-163b7196637c")]
 	public class Ac4yIdentificationBasePreProcessed 

@@ -1,10 +1,10 @@
-using d7p4n4.Final.Class;
-using d7p4n4.PreProcessed.Class;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ac4yNamespace.Final.Class;
+using ac4yNamespace.PreProcessed.Class;
 
-namespace d7p4n4.Algebra.Class
+namespace ac4yNamespace.Algebra.Class
 {
 	public class Ac4yIdentificationAlgebra : Ac4yIdentificationPreProcessed
 	{
